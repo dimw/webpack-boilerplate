@@ -1,5 +1,3 @@
-import '../styles/main.scss';
-
 import $ from 'jquery';
 import {message} from './messages';
 
